@@ -1,0 +1,20 @@
+.fengexian {text-align:center;}
+.divhead {background:#97979797;}
+.anniu
+{ 
+        text-decoration:none;
+        padding:8px;  
+        color: #428bca;  
+        text-align: center; 
+        vertical-align: middle;  
+        font-weight: 900; 
+        font-size:125% 
+      }
+     .anniu
+     {
+        background: AliceBlue;
+        border: none;
+        border-radius: 40px 10px; 
+        width: 200px;
+        height: 100px;
+    }
