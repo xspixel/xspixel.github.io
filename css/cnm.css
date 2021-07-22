@@ -27,9 +27,14 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 .anniu
-{height:28px;border-radius:28px;
-background:linear-gradient(145deg, #cacaca, #f0f0f0);
-box-shadow:14px 14px 28px #bebebe,-14px  -14px 28px #ffffff;}
+{border-radius: 34px;
+background: #e0e0e0;
+box-shadow:  17px 17px 33px #5a5a5a,
+-17px -17px 33px #ffffff;}
 a:link {
   text-decoration: none;
+}
+.zsimg
+{
+  height: 100px;
 }
