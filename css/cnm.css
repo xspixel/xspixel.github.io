@@ -27,7 +27,7 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 .anniu
-{border:20px;border-radius:28px;
+{height:28px;border-radius:28px;
 background:linear-gradient(145deg, #cacaca, #f0f0f0);
 box-shadow:14px 14px 28px #bebebe,-14px  -14px 28px #ffffff;}
 a:link {
