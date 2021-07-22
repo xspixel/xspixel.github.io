@@ -38,5 +38,9 @@ a:link {
 }
 .zsimg
 {
-  height: 900px;text-align: center;
+  text-align: center;
+}
+.zsimg img
+{
+  height:800px;
 }
