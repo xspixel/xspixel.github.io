@@ -30,3 +30,6 @@ li a:hover:not(.active) {
 {border-radius:28px;
 background:linear-gradient(145deg, #cacaca, #f0f0f0);
 box-shadow:14px 14px 28px #bebebe,-14px  -14px 28px #ffffff;}
+a:link {
+  text-decoration: none;
+}
